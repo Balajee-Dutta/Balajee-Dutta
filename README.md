@@ -1,4 +1,4 @@
-# Balajee-Dutta-Balajee-Dutta
+
 <div align="center">
   <h1>Hello there, I'm Balajee Dutta! 👋</h1>
   <p><h3>Driving Data-Driven Decisions in People & Business Analytics.</h3></p>
