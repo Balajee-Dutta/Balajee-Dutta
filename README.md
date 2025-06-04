@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/balajeedutta88888/" target="_blank">
-    <img src="http://googleusercontent.com/image_generation_content/0" alt="Animated banner: Data Analytics and AI" width="100%" />
+    <img src="https://media.giphy.com/media/v1.gif" alt="Animated banner: Data Analytics and AI" width="100%" /> 
   </a>
-
   <h1>Hello there, I'm Balajee Dutta! 👋</h1>
   <p><h3>Driving Data-Driven Decisions in People & Business Analytics.</h3></p>
 </div>
