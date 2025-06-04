@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/eb90ef51-7a28-469e-9eca-2d8b2b565e06)
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/balajeedutta88888/" target="_blank">
     <img src="https://media.giphy.com/media/v1.gif" alt="Animated banner: Data Analytics and AI" width="100%" /> 
