@@ -1,5 +1,7 @@
-
 <div align="center">
+  <a href="https://www.linkedin.com/in/balajeedutta88888/" target="_blank">
+    <img src="https://media.giphy.com/media/v1.gif" alt="Animated banner: Data Analytics and AI" width="100%" /> 
+  </a>
   <h1>Hello there, I'm Balajee Dutta! 👋</h1>
   <p><h3>Driving Data-Driven Decisions in People & Business Analytics.</h3></p>
 </div>
@@ -70,6 +72,9 @@ Proficient in leveraging these technologies for end-to-end data solutions, from 
 <p align="center">
   <a href="https://www.linkedin.com/in/balajeedutta88888/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:bldutta94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email bldutta94@gmail.com" />
   </a>
 </p>
 
